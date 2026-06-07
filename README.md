@@ -1,7 +1,17 @@
+
+<div align="center">
+
 # Hi, I'm Mohiuddin 👋
 
-### Front-End Engineer · React & Next.js Developer
-> Building modern web apps from Dhaka, Bangladesh
+**Front-End Engineer · React & Next.js Developer**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Building+modern+web+apps+%F0%9F%9A%80;React+%26+Next.js+%7C+TypeScript+%7C+Tailwind;Node.js+%7C+Express+%7C+MongoDB;Learning+Golang+%2C+Rust+%26+Blockchain...)](https://git.io/typing-svg)
+
+📍 Dhaka, Bangladesh
+
+</div>
+
+---
 
 ---
 
