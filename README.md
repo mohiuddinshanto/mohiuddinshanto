@@ -78,8 +78,6 @@ I'm a MERN Stack Developer building end-to-end web applications with React, Next
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mohiuddinshanto&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohiuddinshanto&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohiuddinshanto&theme=tokyonight&hide_border=true)
