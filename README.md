@@ -69,7 +69,7 @@
 
 ## 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/@muhiuddinshanto-181717?style=flat&logo=github&logoColor=white)](https://github.com/muhiuddinshanto)
+[![GitHub](https://img.shields.io/badge/@mohiuddinshanto-181717?style=flat&logo=github&logoColor=white)](https://github.com/mohiuddinshanto)
 [![LinkedIn](https://img.shields.io/badge/mohiuddin--shanto-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohiuddin-shanto)
 
 ---
