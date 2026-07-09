@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;React+%26+Next.js+%7C+TypeScript+%7C+Tailwind;Node.js+%7C+Express+%7C+MongoDB;Learning+Golang%2C+Rust+%26+Blockchain...)](https://git.io/typing-svg)
 
-📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 mohiuddin.shanto@example.com &nbsp;|&nbsp; 📱 +880-1620044069
+📍 Dhaka, Bangladesh &nbsp;|&nbsp; 📧 contact.mohiuddinshanto@gmail.com &nbsp;|&nbsp; 📱 +880-1620044069
 
 </div>
 
@@ -66,7 +66,7 @@ I'm a MERN Stack Developer building end-to-end web applications with React, Next
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🗂️ **Jobs Listing Platform** |  Responsive landing page for a remote hiring platform — hero, global reach, premium features, talent showcase, pricing & FAQs | Next.js 16, React 19, Tailwind CSS 4, React Icons |
-📚 **BiblioDrop** | Online book delivery management platform connecting readers with libraries — role-based dashboards, Stripe payments, delivery tracking, review system | Next.js, MongoDB, Better Auth, Stripe, HeroUI, Framer Motion |
+| 📚 **BiblioDrop** | Online book delivery management platform connecting readers with libraries — role-based dashboards, Stripe payments, delivery tracking, review system | Next.js, MongoDB, Better Auth, Stripe, HeroUI, Framer Motion |
 | 🏥 **Radiology Task & Annotation App** | Task management + image annotation studio with Kanban board, polygon drawing, and JWT auth | Next.js, TypeScript, Django REST Framework, Zustand, Tailwind CSS, Framer Motion |
 | 🛒 **WooCommerce Stores** | Conversion-optimized e-commerce shops | WordPress, WooCommerce, CartFlows |
 
@@ -93,8 +93,8 @@ I'm a MERN Stack Developer building end-to-end web applications with React, Next
 - [ ] Ship a production-grade MERN SaaS product
 - [ ] Master Golang for backend services
 - [ ] Build a Blockchain-based project
+- [ ] Become a Full-Stack Blockchain Developer
 - [ ] Contribute to Next.js open source
-- [ ] Publish an IEEE research paper
 
 ---
 
